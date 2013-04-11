@@ -1,0 +1,45 @@
+
+PMID- 22461984
+OWN - NLM
+STAT- In-Data-Review
+DA  - 20120330
+IS  - 2090-3189 (Electronic)
+VI  - 2012
+DP  - 2012
+TI  - Triple-negative breast cancer: an update on neoadjuvant clinical trials.
+PG  - 385978
+AB  - Triple-negative breast cancer (TNBC) is an aggressive malignancy with a poor
+      prognosis despite the high rates of response to chemotherapy. This scenario
+      highlights the need to develop novel therapies and/or treatment strategies to
+      reduce the mortality associated with TNBC. The neoadjuvant setting provides a
+      model for rapid assessment of treatment efficacy with smaller patient accruals
+      and over shorter periods of time compared to the traditional adjuvant setting. In
+      addition, a clear surrogate endpoint of improved survival, known as pathologic
+      complete response, already exists in this setting. Here, we review current data
+      from completed and ongoing neoadjuvant clinical trials for TNBC.
+AD  - Division of Surgical Oncology, School of Medicine, University of North Carolina
+      at Chapel Hill, Chapel Hill, NC 27599, USA.
+FAU - Amos, Keith D
+AU  - Amos KD
+FAU - Adamo, Barbara
+AU  - Adamo B
+FAU - Anders, Carey K
+AU  - Anders CK
+LA  - eng
+PT  - Journal Article
+DEP - 20120124
+PL  - Egypt
+TA  - Int J Breast Cancer
+JT  - International journal of breast cancer
+JID - 101568103
+PMC - PMC3270519
+EDAT- 2012/03/31 06:00
+MHDA- 2012/03/31 06:00
+CRDT- 2012/03/31 06:00
+PHST- 2011/07/18 [received]
+PHST- 2011/10/13 [revised]
+PHST- 2011/10/13 [accepted]
+PHST- 2012/01/24 [epublish]
+AID - 10.1155/2012/385978 [doi]
+PST - ppublish
+SO  - Int J Breast Cancer. 2012;2012:385978. Epub 2012 Jan 24.
